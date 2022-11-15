@@ -1,2 +1,4 @@
 # WhereIsTheCat
-A game using Google maps API to generate a scene where you need to find the cat
+  
+A game using Google maps API to generate a scene where you need to find the cat in street view.
+  
